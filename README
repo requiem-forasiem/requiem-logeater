@@ -1,0 +1,32 @@
+Requiem-Logeater Overview
+====================
+
+This is the Requiem-Logeater log analyzer, collecting events from log files
+and/or syslog UDP messages. Requiem-Logeater is written and maintained by 
+Yoann Vandoorselaere. Initial work on Requiem-Logeater was done by 
+Alexandre Launay and Pierre-Jean Turpeau.
+
+
+REQUIREMENTS
+============
+
+You need to install librequiem on your system before compiling Requiem-Logeater.
+
+
+
+IRC
+===
+
+If there's something you just can't find out elsewhere, you want to
+give feedback directly to the authors or you're just bored, visit
+#requiem on irc.freenode.net
+
+
+
+Get Support
+===========
+
+
+Requiem-user mailing list archives can be accessed at:
+	https://groups.google.com/forum/#!forum/requiem-forasiem
+
